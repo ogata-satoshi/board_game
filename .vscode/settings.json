@@ -1,0 +1,8 @@
+{
+  "python.analysis.extraPaths": [
+    "/Users/ogatasatoshi/Library/Caches/pypoetry/virtualenvs/scraping-5p6XCn0s-py3.10/bin/python3.10/site-packages/"
+  ],
+  // python のバージョンを変えたら poetry shell をしたあとに which flake8 をしてそのパスをここに記述する
+  "cornflakes.linter.executablePath": "/Users/ogatasatoshi/Library/Caches/pypoetry/virtualenvs/scraping-5p6XCn0s-py3.10/bin/flake8",
+  "python.linting.mypyPath": "/Users/ogatasatoshi/Library/Caches/pypoetry/virtualenvs/scraping-5p6XCn0s-py3.10/bin/mypy"
+}
